@@ -17,14 +17,15 @@ public class Quadrilatero {
             return (( baseMaior + baseMenor ) * altura) / altura;
         }
 
-        public static void xpto() {
+/*      public static void xpto() {
 
             System.out.println("Antes");
             return;
-        }
+       }
 
-        public static long abc() {
+            public static long abc() {
             return 1.6;
-        }
+      }
+*/
 }
 
